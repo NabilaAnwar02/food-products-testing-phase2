@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1764417098980" clover="3.2.0">
-  <project timestamp="1764417098981" name="All files">
-    <metrics statements="201" coveredstatements="101" conditionals="224" coveredconditionals="91" methods="48" coveredmethods="18" elements="473" coveredelements="210" complexity="0" loc="201" ncloc="201" packages="1" files="43" classes="43"/>
+<coverage generated="1765482612192" clover="3.2.0">
+  <project timestamp="1765482612193" name="All files">
+    <metrics statements="201" coveredstatements="96" conditionals="224" coveredconditionals="78" methods="48" coveredmethods="17" elements="473" coveredelements="191" complexity="0" loc="201" ncloc="201" packages="1" files="43" classes="43"/>
     <file name="add.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\add.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="16" count="29" type="stmt"/>
+      <line num="16" count="12" type="stmt"/>
     </file>
     <file name="at.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\at.js">
       <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -19,7 +19,7 @@
     </file>
     <file name="capitalize.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\capitalize.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="17" count="19" type="stmt"/>
+      <line num="17" count="8" type="stmt"/>
     </file>
     <file name="castArray.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\castArray.js">
       <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -28,7 +28,7 @@
     </file>
     <file name="ceil.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\ceil.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <line num="22" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
     </file>
     <file name="chunk.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\chunk.js">
       <metrics statements="10" coveredstatements="0" conditionals="7" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -57,12 +57,12 @@
     </file>
     <file name="compact.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\compact.js">
       <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="15" count="10" type="stmt"/>
-      <line num="16" count="10" type="stmt"/>
-      <line num="18" count="10" type="stmt"/>
-      <line num="19" count="47" type="cond" truecount="2" falsecount="0"/>
-      <line num="20" count="26" type="stmt"/>
-      <line num="23" count="10" type="stmt"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="19" count="19" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="9" type="stmt"/>
+      <line num="23" count="4" type="stmt"/>
     </file>
     <file name="countBy.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\countBy.js">
       <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
@@ -92,8 +92,8 @@
     </file>
     <file name="drop.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\drop.js">
       <metrics statements="2" coveredstatements="2" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
-      <line num="27" count="22" type="cond" truecount="2" falsecount="0"/>
-      <line num="28" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="8" type="cond" truecount="2" falsecount="0"/>
     </file>
     <file name="endsWith.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\endsWith.js">
       <metrics statements="9" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -122,15 +122,15 @@
     </file>
     <file name="filter.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\filter.js">
       <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <line num="25" count="12" type="stmt"/>
-      <line num="26" count="12" type="stmt"/>
-      <line num="27" count="12" type="cond" truecount="2" falsecount="0"/>
-      <line num="28" count="12" type="stmt"/>
-      <line num="30" count="12" type="stmt"/>
-      <line num="31" count="28" type="stmt"/>
-      <line num="32" count="28" type="cond" truecount="2" falsecount="0"/>
-      <line num="33" count="17" type="stmt"/>
-      <line num="36" count="12" type="stmt"/>
+      <line num="25" count="5" type="stmt"/>
+      <line num="26" count="5" type="stmt"/>
+      <line num="27" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="5" type="stmt"/>
+      <line num="30" count="5" type="stmt"/>
+      <line num="31" count="7" type="stmt"/>
+      <line num="32" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="4" type="stmt"/>
+      <line num="36" count="5" type="stmt"/>
     </file>
     <file name="get.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\get.js">
       <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -143,7 +143,7 @@
     </file>
     <file name="isArrayLike.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isArrayLike.js">
       <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
-      <line num="27" count="10" type="cond" truecount="3" falsecount="0"/>
+      <line num="27" count="4" type="cond" truecount="3" falsecount="0"/>
     </file>
     <file name="isArrayLikeObject.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isArrayLikeObject.js">
       <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -155,12 +155,12 @@
     </file>
     <file name="isBuffer.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isBuffer.js">
       <metrics statements="6" coveredstatements="6" conditionals="17" coveredconditionals="7" methods="1" coveredmethods="0"/>
-      <line num="4" count="2" type="cond" truecount="1" falsecount="3"/>
-      <line num="7" count="2" type="cond" truecount="1" falsecount="4"/>
-      <line num="10" count="2" type="cond" truecount="1" falsecount="1"/>
-      <line num="13" count="2" type="cond" truecount="1" falsecount="1"/>
-      <line num="16" count="2" type="cond" truecount="1" falsecount="1"/>
-      <line num="33" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="1" type="cond" truecount="1" falsecount="3"/>
+      <line num="7" count="1" type="cond" truecount="1" falsecount="4"/>
+      <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="33" count="1" type="cond" truecount="2" falsecount="0"/>
     </file>
     <file name="isDate.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isDate.js">
       <metrics statements="4" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
@@ -188,43 +188,43 @@
     </file>
     <file name="isLength.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isLength.js">
       <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <line num="2" count="2" type="stmt"/>
-      <line num="29" count="10" type="cond" truecount="1" falsecount="3"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="29" count="4" type="cond" truecount="1" falsecount="3"/>
     </file>
     <file name="isObject.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isObject.js">
       <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
-      <line num="25" count="14" type="stmt"/>
-      <line num="26" count="14" type="cond" truecount="3" falsecount="0"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="26" count="2" type="cond" truecount="3" falsecount="0"/>
     </file>
     <file name="isObjectLike.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isObjectLike.js">
       <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
     </file>
     <file name="isSymbol.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isSymbol.js">
-      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <line num="19" count="35" type="stmt"/>
-      <line num="20" count="35" type="cond" truecount="4" falsecount="0"/>
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="19" count="9" type="stmt"/>
+      <line num="20" count="9" type="cond" truecount="3" falsecount="1"/>
     </file>
     <file name="isTypedArray.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\isTypedArray.js">
       <metrics statements="5" coveredstatements="3" conditionals="6" coveredconditionals="2" methods="2" coveredmethods="0"/>
-      <line num="6" count="2" type="stmt"/>
-      <line num="9" count="2" type="cond" truecount="1" falsecount="1"/>
-      <line num="26" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
       <line num="27" count="0" type="stmt"/>
       <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
     </file>
     <file name="keys.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\keys.js">
       <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <line num="32" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="32" count="2" type="cond" truecount="1" falsecount="1"/>
     </file>
     <file name="map.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\map.js">
       <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="20" count="14" type="stmt"/>
-      <line num="21" count="14" type="cond" truecount="2" falsecount="0"/>
-      <line num="22" count="14" type="stmt"/>
-      <line num="24" count="14" type="stmt"/>
-      <line num="25" count="28" type="stmt"/>
-      <line num="27" count="13" type="stmt"/>
+      <line num="20" count="7" type="stmt"/>
+      <line num="21" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="7" type="stmt"/>
+      <line num="24" count="7" type="stmt"/>
+      <line num="25" count="11" type="stmt"/>
+      <line num="27" count="7" type="stmt"/>
     </file>
     <file name="memoize.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\memoize.js">
       <metrics statements="13" coveredstatements="0" conditionals="13" coveredconditionals="0" methods="2" coveredmethods="0"/>
@@ -244,83 +244,83 @@
     </file>
     <file name="reduce.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\reduce.js">
       <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="39" count="13" type="cond" truecount="2" falsecount="0"/>
-      <line num="40" count="13" type="stmt"/>
-      <line num="41" count="13" type="stmt"/>
+      <line num="39" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="5" type="stmt"/>
+      <line num="41" count="5" type="stmt"/>
     </file>
     <file name="slice.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\slice.js">
-      <metrics statements="16" coveredstatements="16" conditionals="16" coveredconditionals="16" methods="1" coveredmethods="1"/>
-      <line num="22" count="34" type="cond" truecount="2" falsecount="0"/>
-      <line num="23" count="34" type="cond" truecount="2" falsecount="0"/>
-      <line num="24" count="3" type="stmt"/>
-      <line num="26" count="31" type="cond" truecount="2" falsecount="0"/>
-      <line num="27" count="31" type="cond" truecount="2" falsecount="0"/>
-      <line num="29" count="31" type="cond" truecount="2" falsecount="0"/>
-      <line num="30" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="32" count="31" type="cond" truecount="2" falsecount="0"/>
-      <line num="33" count="2" type="stmt"/>
-      <line num="35" count="31" type="cond" truecount="2" falsecount="0"/>
-      <line num="36" count="31" type="stmt"/>
-      <line num="38" count="31" type="stmt"/>
-      <line num="39" count="31" type="stmt"/>
-      <line num="40" count="31" type="stmt"/>
-      <line num="41" count="67" type="stmt"/>
-      <line num="43" count="31" type="stmt"/>
+      <metrics statements="16" coveredstatements="16" conditionals="16" coveredconditionals="14" methods="1" coveredmethods="1"/>
+      <line num="22" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="26" count="12" type="cond" truecount="1" falsecount="1"/>
+      <line num="27" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="32" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="35" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="12" type="stmt"/>
+      <line num="38" count="12" type="stmt"/>
+      <line num="39" count="12" type="stmt"/>
+      <line num="40" count="12" type="stmt"/>
+      <line num="41" count="22" type="stmt"/>
+      <line num="43" count="12" type="stmt"/>
     </file>
     <file name="toFinite.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\toFinite.js">
-      <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="11" methods="1" coveredmethods="1"/>
-      <line num="4" count="4" type="stmt"/>
-      <line num="5" count="4" type="stmt"/>
-      <line num="29" count="40" type="cond" truecount="2" falsecount="0"/>
-      <line num="30" count="7" type="cond" truecount="2" falsecount="0"/>
-      <line num="32" count="33" type="stmt"/>
-      <line num="33" count="33" type="cond" truecount="4" falsecount="0"/>
-      <line num="34" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="35" count="4" type="stmt"/>
-      <line num="37" count="29" type="cond" truecount="1" falsecount="1"/>
+      <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="29" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="12" type="stmt"/>
+      <line num="33" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="34" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="37" count="11" type="cond" truecount="1" falsecount="1"/>
     </file>
     <file name="toInteger.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\toInteger.js">
       <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="29" count="40" type="stmt"/>
-      <line num="30" count="40" type="stmt"/>
-      <line num="32" count="40" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="14" type="stmt"/>
+      <line num="30" count="14" type="stmt"/>
+      <line num="32" count="14" type="cond" truecount="2" falsecount="0"/>
     </file>
     <file name="toNumber.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\toNumber.js">
-      <metrics statements="18" coveredstatements="17" conditionals="22" coveredconditionals="15" methods="1" coveredmethods="1"/>
-      <line num="5" count="4" type="stmt"/>
-      <line num="8" count="4" type="stmt"/>
-      <line num="11" count="4" type="stmt"/>
-      <line num="14" count="4" type="stmt"/>
-      <line num="17" count="4" type="stmt"/>
-      <line num="20" count="4" type="stmt"/>
-      <line num="45" count="33" type="cond" truecount="2" falsecount="0"/>
-      <line num="46" count="21" type="stmt"/>
-      <line num="48" count="12" type="cond" truecount="1" falsecount="1"/>
+      <metrics statements="18" coveredstatements="14" conditionals="22" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="45" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="10" type="stmt"/>
+      <line num="48" count="2" type="cond" truecount="1" falsecount="1"/>
       <line num="49" count="0" type="stmt"/>
-      <line num="51" count="12" type="cond" truecount="2" falsecount="0"/>
-      <line num="52" count="2" type="cond" truecount="1" falsecount="1"/>
-      <line num="53" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="55" count="12" type="cond" truecount="2" falsecount="0"/>
-      <line num="56" count="4" type="cond" truecount="1" falsecount="1"/>
-      <line num="58" count="8" type="stmt"/>
-      <line num="59" count="8" type="stmt"/>
-      <line num="60" count="8" type="cond" truecount="3" falsecount="1"/>
+      <line num="51" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="55" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="58" count="2" type="stmt"/>
+      <line num="59" count="2" type="stmt"/>
+      <line num="60" count="2" type="cond" truecount="3" falsecount="1"/>
     </file>
     <file name="toString.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\toString.js">
-      <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="9" methods="2" coveredmethods="2"/>
-      <line num="4" count="2" type="stmt"/>
-      <line num="28" count="22" type="cond" truecount="2" falsecount="0"/>
-      <line num="29" count="12" type="stmt"/>
-      <line num="31" count="10" type="cond" truecount="2" falsecount="0"/>
-      <line num="33" count="3" type="cond" truecount="1" falsecount="1"/>
-      <line num="35" count="9" type="cond" truecount="2" falsecount="0"/>
-      <line num="36" count="1" type="stmt"/>
-      <line num="38" count="8" type="stmt"/>
-      <line num="39" count="8" type="cond" truecount="2" falsecount="2"/>
+      <metrics statements="9" coveredstatements="7" conditionals="12" coveredconditionals="6" methods="2" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="28" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="4" type="stmt"/>
+      <line num="31" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="35" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="39" count="4" type="cond" truecount="2" falsecount="2"/>
     </file>
     <file name="upperFirst.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\upperFirst.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <line num="19" count="2" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
     </file>
     <file name="words.js" path="C:\Users\Nabila\food-products-testing-phase2\src\utils\words.js">
       <metrics statements="7" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="2" coveredmethods="0"/>
